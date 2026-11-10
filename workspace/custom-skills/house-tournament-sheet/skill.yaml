@@ -1,0 +1,5 @@
+name: "house-tournament-sheet"
+title: "ハウストーナメント進行シート"
+description: "ダブルスのハウストーナメント用に、台の振り分けと進行が一目で分かるGoogleスプレッドシートを作る手順。最初に参加ペア数と台数を聞き、それに合わせて予選ロビン・敗者復活・決勝トーナメントのシートを組み立てる。"
+category: "Work and knowledge"
+include_in_prompt: true
